@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+
+
+#kart{
+    width: 200vh;
+    height: 100vw;
+}
+
+#knapper{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+#matknapper{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+}
